@@ -10,3 +10,8 @@ The Customer Shopping Preferences Data Analysis project seeks to reveal key insi
 - Seasonal Trends: Analyzing purchase data across different seasons to optimize seasonal marketing campaigns.
 - Payment Methods: Identifying the most popular payment methods to streamline the checkout experience.
 - Shipping Preferences: Understanding the most preferred shipping types to improve logistics.
+
+### Data visualization 
+Dashboard using tableau
+Link: https://public.tableau.com/shared/F575ZNXCQ?:display_count=n&:origin=viz_share_link
+!(dashboard)[https://github.com/izzudin01/customer-shopping-analysis/blob/main/Dashboard%201.png]
