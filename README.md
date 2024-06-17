@@ -4,7 +4,6 @@ The Customer Shopping Preferences Data Analysis project seeks to reveal key insi
 ## Key Queries
 - Age Group Purchasing Behavior: Analyzing the purchasing behavior of the most popular age groups, including their preferred items and payment methods.
 - Gender Distribution: Analyzing the ratio of male to female customers to develop strategies for attracting more female customers.
-- Female Age Group Analysis: Identifying the predominant age groups among female customers to tailor marketing efforts.
 - Category Popularity: Determining the most and least popular product categories to inform inventory decisions.
 - Popular Items: Identifying the most frequently purchased items to enhance product placement and promotions.
 - Seasonal Trends: Analyzing purchase data across different seasons to optimize seasonal marketing campaigns.
@@ -14,4 +13,4 @@ The Customer Shopping Preferences Data Analysis project seeks to reveal key insi
 ### Data visualization 
 Dashboard using tableau
 Link: https://public.tableau.com/shared/F575ZNXCQ?:display_count=n&:origin=viz_share_link
-!(dashboard)[https://github.com/izzudin01/customer-shopping-analysis/blob/main/Dashboard%201.png]
+![dashboard](https://github.com/izzudin01/customer-shopping-analysis/blob/main/Dashboard%201.png)
